@@ -1,0 +1,73 @@
+.fluid-container{
+    background-image: url(images/black.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+}
+nav
+{
+
+  background-color:transparent;
+  position: fixed;
+   width: 100%; 
+   height: 130px;
+   line-height:40px;
+
+   
+  
+   }
+   nav ul
+   {
+    float: right;
+    margin-right: 30px;
+   }
+
+   nav ul li
+   { list-style-type: none;
+    display: inline-block; 
+   }
+    nav ul li a
+    {
+        text-decoration: none;
+        padding: 100px;
+        color:black;
+    
+    }
+     nav ul li a:hover{
+        color:orangered ;
+      
+
+     }
+     h1{
+        color: white;
+        font-size: 50px;
+        text-align: center;
+        padding: 300px;
+
+     }
+     .bb{
+        width: 32%;
+        padding: 30px;
+        height: 60vh;
+     }
+     .ss{
+        background-color: black;
+     }
+     .zz{
+        color: white;
+        font-size: 30px;
+        padding: 50px;
+     }
+     .pe{
+      padding: 5px;
+      margin-left: 25px;
+     }
+     table tr th{
+         color: white;
+         padding: 30px;
+      }
+      table tr td{
+         color: white;
+      }
